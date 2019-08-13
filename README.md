@@ -10,4 +10,3 @@ dependencies:
 |Base Model | Jamie Rumbelow | MY_Model | [link](https://github.com/jamierumbelow/codeigniter-base-model) |
 | Base Controller | Jamie Rumbelow | MY_Controller | [link](https://github.com/jamierumbelow/codeigniter-base-controller) |
 | DOM | jQuery Team (John Resig) | jquery.min.js | [link](https://jquery.com/) |
-| REST Controller | Chris Kacergeuis | REST_Controller | [link] (https://github.com/chriskacerguis/codeigniter-restserver) |
