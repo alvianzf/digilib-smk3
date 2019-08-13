@@ -1,9 +1,10 @@
 # digilib-smk3
-Digital Library for SMK N 3 Tanjungpinang
+
+#### Digital Library for SMK N 3 Tanjungpinang
 
 created using Codeigniter 3 [link](https://github.com/bcit-ci/CodeIgniter)
 
-
+-------------
 dependencies:
 
 | Type | Author | Name | Link |
