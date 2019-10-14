@@ -9,7 +9,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Penjualan Bata</title>
+  <title>Digital Library SMKN 3 Tanjungpinang</title>
 
   <!-- Custom fonts for this template-->
   <link href="assets/templates/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
